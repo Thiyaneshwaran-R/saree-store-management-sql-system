@@ -20,10 +20,9 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 ## 📊 Sample Queries
 
 - Top-selling sarees by quantity
-- Total revenue per customer
+- Pending orders
+- Total monthly revenue
 - Sarees with low stock
-- Monthly sales report
-- Orders with failed payments
 
 ---
 
