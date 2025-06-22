@@ -40,6 +40,7 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 
 - MySQL
 - GitHub for version control
+- dbdiagram.io for er_diagram
 
 ---
 
