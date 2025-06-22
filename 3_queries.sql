@@ -1,3 +1,4 @@
+
 1. Top-selling sarees by quantity
 SELECT s.name, SUM(oi.quantity) AS total_sold
 FROM order_items oi
