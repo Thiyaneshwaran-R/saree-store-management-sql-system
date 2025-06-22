@@ -6,10 +6,6 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 
 ## 📂 Project Structure
 
--schema.sql
--insert_data.sql
--queries.sql
-
 ---
 
 ## 🧱 Database Tables
