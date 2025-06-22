@@ -6,6 +6,7 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 
 ## 📂 Project Structure
 
+---
 
 ## 🧱 Database Tables
 
@@ -40,6 +41,12 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 
 - MySQL
 - GitHub for version control
+
+---
+
+## 🗺 ER Diagram
+
+![ER Diagram](er_diagram.png)
 
 ---
 
