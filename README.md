@@ -6,11 +6,6 @@ This project is a **MySQL-based inventory and sales tracking system** designed f
 
 ## 📂 Project Structure
 
-- `schema.sql` – Contains all CREATE TABLE statements
-- `insert_data.sql` – Inserts sample data into sarees, customers, orders
-- `queries.sql` – Business reports like top-selling sarees, pending orders, and revenue
-
----
 
 ## 🧱 Database Tables
 
